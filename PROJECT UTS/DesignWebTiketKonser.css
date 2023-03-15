@@ -1,0 +1,102 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+}
+body {
+  background-color: #b0c4de;
+}
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-nav li {
+  margin: 0 10px;
+}
+.about-us .row-about {
+  display: flex;
+  padding-left: 0.5rem;
+}
+.content-tentang-kami {
+  padding-left: 1rem;
+}
+
+.nav-link {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #69ffff;
+}
+
+.form-control {
+  width: 250px;
+}
+
+.btn {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.header-text {
+  margin-top: 80px;
+  padding-left: 0.5rem;
+}
+
+.header-text h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.header-text p {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.navbar-bottom {
+  padding-top: 2rem;
+  background-color: #cd853f;
+  padding-left: 6rem;
+  padding-bottom: 1rem;
+  display: flex;
+  width: auto;
+}
+.content-navbar-bottom {
+  padding-left: 50rem;
+  padding-right: 1rem;
+  text-align: center;
+}
+.content-navbar-bottom .icon-navbar-bottom {
+  padding-right: 1rem;
+}
+
+.icon-navbar-bottom a {
+  margin: 0.3rem;
+}
+
+.refund-policy li {
+  padding-left: 2rem;
+}
+.refund-policy a {
+  color: black;
+}
+.refund-policy a:hover {
+  color: #800000;
+}
+.payment {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.payment-content {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
